@@ -33,4 +33,18 @@ form {
     color: white;
     font-size: 1rem;
   }
+  .app-layout {
+    display: flex;
+  }
+  
+  .sidebar {
+    width: 20%;
+    padding: 10px;
+    background-color: #f4f4f4;
+  }
+  
+  .main-content {
+    width: 80%;
+    padding: 10px;
+  }
   
