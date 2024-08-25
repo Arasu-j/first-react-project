@@ -1,7 +1,7 @@
 import React from 'react';
 import Header from './components/header';
 import Footer from './components/Footer';
-import LoginForm from './components/LoginForm';
+import LoginForm from './components/loginform';
 import Sidebar from './components/sidebar';
 
 function App() {
