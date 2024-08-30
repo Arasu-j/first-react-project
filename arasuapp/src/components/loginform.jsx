@@ -11,7 +11,6 @@ const LoginForm = () => {
     // Add your form submission logic here
     console.log('Email:', email);
     console.log('Password:', password);
-  
   };
 
   return (
